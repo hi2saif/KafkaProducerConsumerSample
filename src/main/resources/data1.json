@@ -1,0 +1,10 @@
+{
+  "id": "trial21",
+  "UserId": "8aefa65b",
+  "SomeArrays": [
+    "the.badEngineer1",
+    "the.badEngineer2"
+  ],
+  "SomeParameter": true,
+  "addOperation":true
+}
